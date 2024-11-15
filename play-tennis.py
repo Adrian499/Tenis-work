@@ -66,3 +66,5 @@
                 pb_games = 0
 
     return result
+
+#cambiar números por constantes
